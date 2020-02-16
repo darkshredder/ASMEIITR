@@ -10,4 +10,4 @@ ASME IITR Website based on react
 > $ npm run start
 ```
 # Visit the website
-<a href="https://asmeiitr-5204c.firebaseapp.com/#" target="_blank">ASMEIITR</a>
+[ASMEIITR](https://asmeiitr-5204c.firebaseapp.com/#){:target="_blank"}.
